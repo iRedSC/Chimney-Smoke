@@ -1,0 +1,2 @@
+give @s armor_stand{display:{Name:'{"text":"Chimney Smoke","color":"gold","italic":false}'},EntityTag:{NoGravity:1b,Marker:1b,Invisible:1b,Tags:["chimneysmoke"]}} 1
+give @s armor_stand{display:{Name:'{"text":"KILL Chimney Smoke","color":"red","italic":false}',Lore:['{"text":" "}','{"text":"Place on a Chimney Smoke to kill it","color":"gray","italic":false}']},EntityTag:{NoGravity:1b,Marker:1b,Invisible:1b,Tags:["kill_chimneysmoke"]}} 1
